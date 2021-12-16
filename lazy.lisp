@@ -17,13 +17,13 @@
 ;;;; under the License.
 ;;;;
 
-(defpackage :cl-batteries/lazy
+(defpackage :boost-lazy
   (:use :cl)
   (:export
    #:lazy
    #:lazy-value))
 
-(in-package :cl-batteries/lazy)
+(in-package :boost-lazy)
 
 ;;; ----------------------------------------------------
 
